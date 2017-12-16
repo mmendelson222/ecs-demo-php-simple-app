@@ -26,6 +26,8 @@
                 ?>
 
                 <p>Hello</p>
+		<?php phpinfo(); 
+		?>
             </div>
         </div>
 
